@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "appealpack-uk-prod-101",
+    "prod": "appealpack-uk-prod-101"
+  },
+  "targets": {},
+  "etags": {}
+}
